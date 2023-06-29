@@ -1,6 +1,6 @@
 import pytest
 import io
-from src.user_functions import *
+from src import *
 
 
 
